@@ -1,4 +1,4 @@
-//Compute Quotient and Remainder
+//COMPUTE QUOTIENT AND REMAINDER
 #include<stdio.h>
 int main()
 {
